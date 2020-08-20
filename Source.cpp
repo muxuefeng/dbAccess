@@ -13,6 +13,7 @@ void ToLittleEndian(PUSHORT pWords, int nFirstIndex, int nLastIndex, LPTSTR pBuf
 void TrimStart(LPTSTR pBuf);
 
 //  
+// get hard disk serial number
 // Model Number: 40 ASCII Chars  
 // SerialNumber: 20 ASCII Chars  
 //  
